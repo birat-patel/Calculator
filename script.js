@@ -26,3 +26,4 @@ let birat = (e) => {
 arrbutton.forEach((element) => {
   element.addEventListener('click', birat);
 })
+
