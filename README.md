@@ -27,7 +27,7 @@ It can perform basic arithmetic operations like addition, subtraction, multiplic
 [View Calculator](https://birat-patel.github.io/Calculator/)
 
 ## Screenshot
-![Calculator Screenshot](calculator-project .jpg)
+![Calculator Screenshot](calculator-project.jpg)
 
 ## Author
 Birat Kumar
