@@ -23,7 +23,7 @@ It can perform basic arithmetic operations like addition, subtraction, multiplic
    
 2. Open `index.html` in your browser.
 
-## Live Demo
+## View Live Project
 [View Calculator](https://birat-patel.github.io/Calculator/)
 
 ## Screenshot
